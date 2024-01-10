@@ -1,5 +1,5 @@
 # Examen 1 de Programación
-**Primer examen de programación del curso de DAW Presencial**
+**Primer examen de programación del curso de DAW Presencial SOLUCIONADO**
 
 ## Examen en Pseudocodigo
 - Actividad 1
