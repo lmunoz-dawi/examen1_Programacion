@@ -387,7 +387,7 @@ public class exercici8 {
         System.out.println("Que vols transportar? Escriu 1 per Liquids o 2 per Solids: ");
         int opcio = sc.nextInt();
 
-        while (opcio != 1 || opcio != 2) {
+        while (opcio != 1 && opcio != 2) {
             System.out.println("Escriu una opcio valida");
             System.out.println("Que vols transportar? Escriu 1 per Liquids o 2 per Solids: ");
             opcio = sc.nextInt();
